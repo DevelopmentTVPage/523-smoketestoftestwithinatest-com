@@ -1,0 +1,15 @@
+{
+    "title": "Beef",
+    "baseURL": "https:\/\/smoketestoftestwithinatest.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759050",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "smoketestoftestwithinatest.com"
+    }
+}
